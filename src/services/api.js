@@ -7,7 +7,7 @@ import axios from 'axios';
 * 4 - Dev
 */ 
 const api = axios.create({  
-  baseURL: 'http://127.0.0.1:3333'
+  baseURL: 'https://witty-sandals-fish.cyclic.app'
 });
 
 export default api
